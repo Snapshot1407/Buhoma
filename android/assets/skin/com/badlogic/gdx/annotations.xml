@@ -1,0 +1,5 @@
+<root>
+    <item name='com.badlogic.gdx.Gdx'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
